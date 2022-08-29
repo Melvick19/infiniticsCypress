@@ -1,0 +1,18 @@
+{
+  "name": "infinitics",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas WebSite Infinitics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "QA, Testing, Internet"
+  },
+  "author": "Melvick19",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
