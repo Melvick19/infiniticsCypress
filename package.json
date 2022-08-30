@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Pruebas automatizadas WebSite Infinitics",
   "main": "index.js",
+  "baseUrl": "https://www.infinitics.com.ve",
   "scripts": {
     "test": "npx cypress run"
   },

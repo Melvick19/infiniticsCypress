@@ -1,0 +1,6 @@
+{
+    "cellCanvas" : "#canvas3d",
+    "logoHigher" : ":nth-child(1) > .infinitics-logo",
+    "sizeButton" : "#measureButton",
+    "sizeClose" : "#closeSpeedtest"
+}
